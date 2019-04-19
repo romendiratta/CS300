@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ec31982-b93c-480e-956c-55ad1da6fd0d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="780655891">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="7178" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="7178" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DictionaryTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="docComment;class#DictionaryTests#0" />
+                <element signature="docComment;method#testAddToBST#0;class#DictionaryTests#0" />
+                <element signature="method#testAddToBST#0;class#DictionaryTests#0" />
+                <element signature="docComment;method#testAddDuplicate#0;class#DictionaryTests#0" />
+                <element signature="method#testAddDuplicate#0;class#DictionaryTests#0" />
+                <element signature="docComment;method#testSize#0;class#DictionaryTests#0" />
+                <element signature="method#testSize#0;class#DictionaryTests#0" />
+                <element signature="docComment;method#testHeight#0;class#DictionaryTests#0" />
+                <element signature="method#testHeight#0;class#DictionaryTests#0" />
+                <element signature="docComment;method#testIsEmpty#0;class#DictionaryTests#0" />
+                <element signature="method#testIsEmpty#0;class#DictionaryTests#0" />
+                <element signature="docComment;method#main#0;class#DictionaryTests#0" />
+                <element signature="method#main#0;class#DictionaryTests#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DictionaryBST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="docComment;method#DictionaryBST#0;class#DictionaryBST#0" />
+                <element signature="docComment;method#isEmpty#0;class#DictionaryBST#0" />
+                <element signature="docComment;method#addWord#0;class#DictionaryBST#0" />
+                <element signature="method#addWord#0;class#DictionaryBST#0" />
+                <element signature="docComment;method#lookup#0;class#DictionaryBST#0" />
+                <element signature="docComment;method#size#0;class#DictionaryBST#0" />
+                <element signature="docComment;method#height#0;class#DictionaryBST#0" />
+                <element signature="docComment;method#getAllWords#0;class#DictionaryBST#0" />
+                <element signature="method#getAllWords#0;class#DictionaryBST#0" />
+                <element signature="docComment;method#addWordHelper#0;class#DictionaryBST#0" />
+                <element signature="method#addWordHelper#0;class#DictionaryBST#0" />
+                <element signature="docComment;method#lookupHelper#0;class#DictionaryBST#0" />
+                <element signature="method#lookupHelper#0;class#DictionaryBST#0" />
+                <element signature="docComment;method#sizeHelper#0;class#DictionaryBST#0" />
+                <element signature="method#sizeHelper#0;class#DictionaryBST#0" />
+                <element signature="docComment;method#heightHelper#0;class#DictionaryBST#0" />
+                <element signature="method#heightHelper#0;class#DictionaryBST#0" />
+                <element signature="docComment;method#getAllWordsHelper#0;class#DictionaryBST#0" />
+                <element signature="method#getAllWordsHelper#0;class#DictionaryBST#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DictionaryDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;class#DictionaryDriver#0" />
+                <element signature="docComment;method#main#0;class#DictionaryDriver#0" />
+                <element signature="method#main#0;class#DictionaryDriver#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Dictionary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="69" selection-start-line="69" selection-end-line="69" />
+              <folding>
+                <element signature="docComment;class#Dictionary#0" />
+                <element signature="docComment;method#isEmpty#0;class#Dictionary#0" />
+                <element signature="docComment;method#addWord#0;class#Dictionary#0" />
+                <element signature="docComment;method#lookup#0;class#Dictionary#0" />
+                <element signature="docComment;method#size#0;class#Dictionary#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DictionaryWord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="111" selection-start-line="111" selection-end-line="111" />
+              <folding>
+                <element signature="docComment;class#DictionaryWord#0" />
+                <element signature="docComment;method#DictionaryWord#0;class#DictionaryWord#0" />
+                <element signature="method#DictionaryWord#0;class#DictionaryWord#0" />
+                <element signature="docComment;method#getLeftChild#0;class#DictionaryWord#0" />
+                <element signature="docComment;method#setLeftChild#0;class#DictionaryWord#0" />
+                <element signature="docComment;method#getRightChild#0;class#DictionaryWord#0" />
+                <element signature="docComment;method#setRightChild#0;class#DictionaryWord#0" />
+                <element signature="docComment;method#getWord#0;class#DictionaryWord#0" />
+                <element signature="docComment;method#getMeaning#0;class#DictionaryWord#0" />
+                <element signature="docComment;method#toString#0;class#DictionaryWord#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/DIctionaryBST.java" />
+        <option value="$PROJECT_DIR$/src/DictionaryDriver.java" />
+        <option value="$PROJECT_DIR$/src/DictionaryWord.java" />
+        <option value="$PROJECT_DIR$/src/DictionaryBST.java" />
+        <option value="$PROJECT_DIR$/src/DictionaryTests.java" />
+        <option value="$PROJECT_DIR$/src/Dictionary.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="width" value="3235" />
+    <option name="height" value="1735" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization</id>
+          </State>
+          <State>
+            <id>InternationalizationJava</id>
+          </State>
+          <State>
+            <id>InternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="P09 BST Library" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P09 BST Library" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="P09 BST Library" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P09 BST Library" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555626371195" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DictionaryDriver">
+    <configuration name="DictionaryDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DictionaryDriver" />
+      <module name="P09 BST Library" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DictionaryTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DictionaryTests" />
+      <module name="P09 BST Library" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DictionaryTests" />
+      <item itemvalue="Application.DictionaryDriver" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DictionaryDriver" />
+        <item itemvalue="Application.DictionaryTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ec31982-b93c-480e-956c-55ad1da6fd0d" name="Default Changelist" comment="" />
+      <created>1555549306401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555549306401</updated>
+      <workItem from="1555549312924" duration="6000" />
+      <workItem from="1555549395083" duration="23801000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23807000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49822065" visible="true" weight="0.2534413" />
+      <window_info id="Structure" order="1" sideWeight="0.5017794" side_tool="true" visible="true" weight="0.2534413" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3291815" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.75088966" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39679715" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3291815" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DictionaryTests.java</url>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/DictionaryTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="docComment;class#DictionaryTests#0" />
+            <element signature="docComment;method#testAddToBST#0;class#DictionaryTests#0" />
+            <element signature="method#testAddToBST#0;class#DictionaryTests#0" />
+            <element signature="docComment;method#testAddDuplicate#0;class#DictionaryTests#0" />
+            <element signature="method#testAddDuplicate#0;class#DictionaryTests#0" />
+            <element signature="docComment;method#testSize#0;class#DictionaryTests#0" />
+            <element signature="method#testSize#0;class#DictionaryTests#0" />
+            <element signature="docComment;method#testHeight#0;class#DictionaryTests#0" />
+            <element signature="method#testHeight#0;class#DictionaryTests#0" />
+            <element signature="docComment;method#testIsEmpty#0;class#DictionaryTests#0" />
+            <element signature="method#testIsEmpty#0;class#DictionaryTests#0" />
+            <element signature="docComment;method#main#0;class#DictionaryTests#0" />
+            <element signature="method#main#0;class#DictionaryTests#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DictionaryBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="docComment;method#DictionaryBST#0;class#DictionaryBST#0" />
+            <element signature="docComment;method#isEmpty#0;class#DictionaryBST#0" />
+            <element signature="docComment;method#addWord#0;class#DictionaryBST#0" />
+            <element signature="method#addWord#0;class#DictionaryBST#0" />
+            <element signature="docComment;method#lookup#0;class#DictionaryBST#0" />
+            <element signature="docComment;method#size#0;class#DictionaryBST#0" />
+            <element signature="docComment;method#height#0;class#DictionaryBST#0" />
+            <element signature="docComment;method#getAllWords#0;class#DictionaryBST#0" />
+            <element signature="method#getAllWords#0;class#DictionaryBST#0" />
+            <element signature="docComment;method#addWordHelper#0;class#DictionaryBST#0" />
+            <element signature="method#addWordHelper#0;class#DictionaryBST#0" />
+            <element signature="docComment;method#lookupHelper#0;class#DictionaryBST#0" />
+            <element signature="method#lookupHelper#0;class#DictionaryBST#0" />
+            <element signature="docComment;method#sizeHelper#0;class#DictionaryBST#0" />
+            <element signature="method#sizeHelper#0;class#DictionaryBST#0" />
+            <element signature="docComment;method#heightHelper#0;class#DictionaryBST#0" />
+            <element signature="method#heightHelper#0;class#DictionaryBST#0" />
+            <element signature="docComment;method#getAllWordsHelper#0;class#DictionaryBST#0" />
+            <element signature="method#getAllWordsHelper#0;class#DictionaryBST#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DictionaryDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#DictionaryDriver#0" />
+            <element signature="docComment;method#main#0;class#DictionaryDriver#0" />
+            <element signature="method#main#0;class#DictionaryDriver#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="docComment;class#Dictionary#0" />
+            <element signature="docComment;method#isEmpty#0;class#Dictionary#0" />
+            <element signature="docComment;method#addWord#0;class#Dictionary#0" />
+            <element signature="docComment;method#lookup#0;class#Dictionary#0" />
+            <element signature="docComment;method#size#0;class#Dictionary#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DictionaryWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+          <folding>
+            <element signature="docComment;class#DictionaryWord#0" />
+            <element signature="docComment;method#DictionaryWord#0;class#DictionaryWord#0" />
+            <element signature="method#DictionaryWord#0;class#DictionaryWord#0" />
+            <element signature="docComment;method#getLeftChild#0;class#DictionaryWord#0" />
+            <element signature="docComment;method#setLeftChild#0;class#DictionaryWord#0" />
+            <element signature="docComment;method#getRightChild#0;class#DictionaryWord#0" />
+            <element signature="docComment;method#setRightChild#0;class#DictionaryWord#0" />
+            <element signature="docComment;method#getWord#0;class#DictionaryWord#0" />
+            <element signature="docComment;method#getMeaning#0;class#DictionaryWord#0" />
+            <element signature="docComment;method#toString#0;class#DictionaryWord#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

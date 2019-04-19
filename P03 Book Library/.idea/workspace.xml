@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57fcd249-6c2c-4f43-aa19-f82b5ec2ae38" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1051331763">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="12364" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="12364" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Book.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+              <folding>
+                <element signature="docComment;class#Book#0" />
+                <element signature="docComment;method#Book#0;class#Book#0" />
+                <element signature="method#Book#0;class#Book#0" />
+                <element signature="docComment;method#borrowBook#0;class#Book#0" />
+                <element signature="method#borrowBook#0;class#Book#0" />
+                <element signature="docComment;method#getAuthor#0;class#Book#0" />
+                <element signature="docComment;method#getBorrowerCardBarCode#0;class#Book#0" />
+                <element signature="method#getBorrowerCardBarCode#0;class#Book#0" />
+                <element signature="docComment;method#getID#0;class#Book#0" />
+                <element signature="docComment;method#getTitle#0;class#Book#0" />
+                <element signature="method#isAvailable#0;class#Book#0" />
+                <element signature="docComment;method#returnBook#0;class#Book#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Subscriber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="165" selection-start-line="165" selection-end-line="165" />
+              <folding>
+                <element signature="docComment;class#Subscriber#0" />
+                <element signature="docComment;method#Subscriber#0;class#Subscriber#0" />
+                <element signature="method#Subscriber#0;class#Subscriber#0" />
+                <element signature="docComment;method#getAddress#0;class#Subscriber#0" />
+                <element signature="docComment;method#setAddress#0;class#Subscriber#0" />
+                <element signature="docComment;method#getPhoneNumber#0;class#Subscriber#0" />
+                <element signature="docComment;method#setPhoneNumber#0;class#Subscriber#0" />
+                <element signature="docComment;method#getPin#0;class#Subscriber#0" />
+                <element signature="docComment;method#getCARD_BAR_CODE#0;class#Subscriber#0" />
+                <element signature="docComment;method#getName#0;class#Subscriber#0" />
+                <element signature="docComment;method#checkoutBook#0;class#Subscriber#0" />
+                <element signature="method#checkoutBook#0;class#Subscriber#0" />
+                <element signature="docComment;method#isBookInBooksCheckedOut#0;class#Subscriber#0" />
+                <element signature="docComment;method#returnBook#0;class#Subscriber#0" />
+                <element signature="method#returnBook#0;class#Subscriber#0" />
+                <element signature="docComment;method#displayBooksCheckedOut#0;class#Subscriber#0" />
+                <element signature="method#displayBooksCheckedOut#0;class#Subscriber#0" />
+                <element signature="docComment;method#displayHistoryBooksReturned#0;class#Subscriber#0" />
+                <element signature="method#displayHistoryBooksReturned#0;class#Subscriber#0" />
+                <element signature="docComment;method#displayPersonalInfo#0;class#Subscriber#0" />
+                <element signature="method#displayPersonalInfo#0;class#Subscriber#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Librarian.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+              <folding>
+                <element signature="docComment;class#Librarian#0" />
+                <element signature="docComment;method#Librarian#0;class#Librarian#0" />
+                <element signature="docComment;method#getUsername#0;class#Librarian#0" />
+                <element signature="docComment;method#checkPassword#0;class#Librarian#0" />
+                <element signature="method#checkPassword#0;class#Librarian#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Library.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="32" column="79" selection-end-line="32" selection-end-column="79" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;class#Library#0" />
+                <element signature="docComment;method#Library#0;class#Library#0" />
+                <element signature="method#Library#0;class#Library#0" />
+                <element signature="docComment;method#getLibrarian#0;class#Library#0" />
+                <element signature="docComment;method#getAddress#0;class#Library#0" />
+                <element signature="docComment;method#findBook#0;class#Library#0" />
+                <element signature="method#findBook#0;class#Library#0" />
+                <element signature="docComment;method#findBookByTitle#0;class#Library#0" />
+                <element signature="method#findBookByTitle#0;class#Library#0" />
+                <element signature="docComment;method#findBookByAuthor#0;class#Library#0" />
+                <element signature="method#findBookByAuthor#0;class#Library#0" />
+                <element signature="docComment;method#addBook#0;class#Library#0" />
+                <element signature="method#addBook#0;class#Library#0" />
+                <element signature="docComment;method#removeBook#0;class#Library#0" />
+                <element signature="method#removeBook#0;class#Library#0" />
+                <element signature="docComment;method#addSubscriber#0;class#Library#0" />
+                <element signature="method#addSubscriber#0;class#Library#0" />
+                <element signature="docComment;method#findSubscriber#0;class#Library#0" />
+                <element signature="method#findSubscriber#0;class#Library#0" />
+                <element signature="docComment;method#displayBooks#0;class#Library#0" />
+                <element signature="method#displayBooks#0;class#Library#0" />
+                <element signature="docComment;method#displayMainMenu#0;class#Library#0" />
+                <element signature="method#displayMainMenu#0;class#Library#0" />
+                <element signature="docComment;method#displaySubscriberMenu#0;class#Library#0" />
+                <element signature="method#displaySubscriberMenu#0;class#Library#0" />
+                <element signature="docComment;method#displayLibrarianMenu#0;class#Library#0" />
+                <element signature="method#displayLibrarianMenu#0;class#Library#0" />
+                <element signature="docComment;method#displayGoodByeLogoutMessage#0;class#Library#0" />
+                <element signature="method#displayGoodByeLogoutMessage#0;class#Library#0" />
+                <element signature="docComment;method#readProcessLibrarianCommand#0;class#Library#0" />
+                <element signature="method#readProcessLibrarianCommand#0;class#Library#0" />
+                <element signature="docComment;method#readProcessSubscriberCommand#0;class#Library#0" />
+                <element signature="method#readProcessSubscriberCommand#0;class#Library#0" />
+                <element signature="method#readProcessUserCommand#0;class#Library#0" />
+                <element signature="docComment;method#main#0;class#Library#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BookLibraryTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="83" column="5" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
+              <folding>
+                <element signature="docComment;class#BookLibraryTests#0" />
+                <element signature="docComment;method#testBookConstructorGetters#0;class#BookLibraryTests#0" />
+                <element signature="method#testBookConstructorGetters#0;class#BookLibraryTests#0" />
+                <element signature="docComment;method#testBookReturnBook#0;class#BookLibraryTests#0" />
+                <element signature="method#testBookReturnBook#0;class#BookLibraryTests#0" />
+                <element signature="docComment;method#testSubscriberCheckoutBook#0;class#BookLibraryTests#0" />
+                <element signature="method#testSubscriberCheckoutBook#0;class#BookLibraryTests#0" />
+                <element signature="docComment;method#testLibrarian#0;class#BookLibraryTests#0" />
+                <element signature="method#testLibrarian#0;class#BookLibraryTests#0" />
+                <element signature="docComment;method#testLibraryFindBookByAuthor#0;class#BookLibraryTests#0" />
+                <element signature="method#testLibraryFindBookByAuthor#0;class#BookLibraryTests#0" />
+                <element signature="docComment;method#main#0;class#BookLibraryTests#0" />
+                <element signature="method#main#0;class#BookLibraryTests#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Book.java" />
+        <option value="$PROJECT_DIR$/src/Librarian.java" />
+        <option value="$PROJECT_DIR$/src/Subscriber.java" />
+        <option value="$PROJECT_DIR$/src/Library.java" />
+        <option value="$PROJECT_DIR$/src/BookLibraryTests.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-15" />
+    <option name="width" value="3235" />
+    <option name="height" value="1735" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization</id>
+          </State>
+          <State>
+            <id>InternationalizationJava</id>
+          </State>
+          <State>
+            <id>InternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550117259815" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BookLibraryTests">
+    <configuration name="BookLibraryTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookLibraryTests" />
+      <module name="P03 Book Library" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Library" />
+      <module name="P03 Book Library" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BookLibraryTests" />
+      <item itemvalue="Application.Library" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BookLibraryTests" />
+        <item itemvalue="Application.Library" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57fcd249-6c2c-4f43-aa19-f82b5ec2ae38" name="Default Changelist" comment="" />
+      <created>1549668896879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549668896879</updated>
+      <workItem from="1549668901536" duration="35054000" />
+      <workItem from="1550553470570" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35128000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="0" width="1294" height="694" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4955595" weight="0.34061489" />
+      <window_info id="Structure" order="1" sideWeight="0.5044405" side_tool="true" weight="0.34061489" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.669627" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4955595" visible="true" weight="0.34061489" />
+      <window_info id="Structure" order="6" sideWeight="0.5044405" side_tool="true" visible="true" weight="0.34061489" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.3285968" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.669627" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39964476" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.3285968" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+          <folding>
+            <element signature="docComment;class#Book#0" />
+            <element signature="docComment;method#Book#0;class#Book#0" />
+            <element signature="method#Book#0;class#Book#0" />
+            <element signature="docComment;method#borrowBook#0;class#Book#0" />
+            <element signature="method#borrowBook#0;class#Book#0" />
+            <element signature="docComment;method#getAuthor#0;class#Book#0" />
+            <element signature="docComment;method#getBorrowerCardBarCode#0;class#Book#0" />
+            <element signature="method#getBorrowerCardBarCode#0;class#Book#0" />
+            <element signature="docComment;method#getID#0;class#Book#0" />
+            <element signature="docComment;method#getTitle#0;class#Book#0" />
+            <element signature="method#isAvailable#0;class#Book#0" />
+            <element signature="docComment;method#returnBook#0;class#Book#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Subscriber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="165" selection-start-line="165" selection-end-line="165" />
+          <folding>
+            <element signature="docComment;class#Subscriber#0" />
+            <element signature="docComment;method#Subscriber#0;class#Subscriber#0" />
+            <element signature="method#Subscriber#0;class#Subscriber#0" />
+            <element signature="docComment;method#getAddress#0;class#Subscriber#0" />
+            <element signature="docComment;method#setAddress#0;class#Subscriber#0" />
+            <element signature="docComment;method#getPhoneNumber#0;class#Subscriber#0" />
+            <element signature="docComment;method#setPhoneNumber#0;class#Subscriber#0" />
+            <element signature="docComment;method#getPin#0;class#Subscriber#0" />
+            <element signature="docComment;method#getCARD_BAR_CODE#0;class#Subscriber#0" />
+            <element signature="docComment;method#getName#0;class#Subscriber#0" />
+            <element signature="docComment;method#checkoutBook#0;class#Subscriber#0" />
+            <element signature="method#checkoutBook#0;class#Subscriber#0" />
+            <element signature="docComment;method#isBookInBooksCheckedOut#0;class#Subscriber#0" />
+            <element signature="docComment;method#returnBook#0;class#Subscriber#0" />
+            <element signature="method#returnBook#0;class#Subscriber#0" />
+            <element signature="docComment;method#displayBooksCheckedOut#0;class#Subscriber#0" />
+            <element signature="method#displayBooksCheckedOut#0;class#Subscriber#0" />
+            <element signature="docComment;method#displayHistoryBooksReturned#0;class#Subscriber#0" />
+            <element signature="method#displayHistoryBooksReturned#0;class#Subscriber#0" />
+            <element signature="docComment;method#displayPersonalInfo#0;class#Subscriber#0" />
+            <element signature="method#displayPersonalInfo#0;class#Subscriber#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Librarian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+          <folding>
+            <element signature="docComment;class#Librarian#0" />
+            <element signature="docComment;method#Librarian#0;class#Librarian#0" />
+            <element signature="docComment;method#getUsername#0;class#Librarian#0" />
+            <element signature="docComment;method#checkPassword#0;class#Librarian#0" />
+            <element signature="method#checkPassword#0;class#Librarian#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Library.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="32" column="79" selection-end-line="32" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#Library#0" />
+            <element signature="docComment;method#Library#0;class#Library#0" />
+            <element signature="method#Library#0;class#Library#0" />
+            <element signature="docComment;method#getLibrarian#0;class#Library#0" />
+            <element signature="docComment;method#getAddress#0;class#Library#0" />
+            <element signature="docComment;method#findBook#0;class#Library#0" />
+            <element signature="method#findBook#0;class#Library#0" />
+            <element signature="docComment;method#findBookByTitle#0;class#Library#0" />
+            <element signature="method#findBookByTitle#0;class#Library#0" />
+            <element signature="docComment;method#findBookByAuthor#0;class#Library#0" />
+            <element signature="method#findBookByAuthor#0;class#Library#0" />
+            <element signature="docComment;method#addBook#0;class#Library#0" />
+            <element signature="method#addBook#0;class#Library#0" />
+            <element signature="docComment;method#removeBook#0;class#Library#0" />
+            <element signature="method#removeBook#0;class#Library#0" />
+            <element signature="docComment;method#addSubscriber#0;class#Library#0" />
+            <element signature="method#addSubscriber#0;class#Library#0" />
+            <element signature="docComment;method#findSubscriber#0;class#Library#0" />
+            <element signature="method#findSubscriber#0;class#Library#0" />
+            <element signature="docComment;method#displayBooks#0;class#Library#0" />
+            <element signature="method#displayBooks#0;class#Library#0" />
+            <element signature="docComment;method#displayMainMenu#0;class#Library#0" />
+            <element signature="method#displayMainMenu#0;class#Library#0" />
+            <element signature="docComment;method#displaySubscriberMenu#0;class#Library#0" />
+            <element signature="method#displaySubscriberMenu#0;class#Library#0" />
+            <element signature="docComment;method#displayLibrarianMenu#0;class#Library#0" />
+            <element signature="method#displayLibrarianMenu#0;class#Library#0" />
+            <element signature="docComment;method#displayGoodByeLogoutMessage#0;class#Library#0" />
+            <element signature="method#displayGoodByeLogoutMessage#0;class#Library#0" />
+            <element signature="docComment;method#readProcessLibrarianCommand#0;class#Library#0" />
+            <element signature="method#readProcessLibrarianCommand#0;class#Library#0" />
+            <element signature="docComment;method#readProcessSubscriberCommand#0;class#Library#0" />
+            <element signature="method#readProcessSubscriberCommand#0;class#Library#0" />
+            <element signature="method#readProcessUserCommand#0;class#Library#0" />
+            <element signature="docComment;method#main#0;class#Library#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BookLibraryTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="83" column="5" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
+          <folding>
+            <element signature="docComment;class#BookLibraryTests#0" />
+            <element signature="docComment;method#testBookConstructorGetters#0;class#BookLibraryTests#0" />
+            <element signature="method#testBookConstructorGetters#0;class#BookLibraryTests#0" />
+            <element signature="docComment;method#testBookReturnBook#0;class#BookLibraryTests#0" />
+            <element signature="method#testBookReturnBook#0;class#BookLibraryTests#0" />
+            <element signature="docComment;method#testSubscriberCheckoutBook#0;class#BookLibraryTests#0" />
+            <element signature="method#testSubscriberCheckoutBook#0;class#BookLibraryTests#0" />
+            <element signature="docComment;method#testLibrarian#0;class#BookLibraryTests#0" />
+            <element signature="method#testLibrarian#0;class#BookLibraryTests#0" />
+            <element signature="docComment;method#testLibraryFindBookByAuthor#0;class#BookLibraryTests#0" />
+            <element signature="method#testLibraryFindBookByAuthor#0;class#BookLibraryTests#0" />
+            <element signature="docComment;method#main#0;class#BookLibraryTests#0" />
+            <element signature="method#main#0;class#BookLibraryTests#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
